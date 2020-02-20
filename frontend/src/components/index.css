@@ -1,0 +1,15 @@
+.col-lg-2 {
+    width:  20%;
+}
+
+.col-md-4 {
+    width : 33.33%
+}
+
+
+@media (min-width: 1200px) {
+    .col-xl-2 {
+        flex : 0 0 20%;
+        max-width: 20%;
+    }
+}
